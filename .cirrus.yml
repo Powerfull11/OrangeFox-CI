@@ -1,13 +1,13 @@
 env:
     # OrangeFox Sync Repository
-    FOX_SYNC: https://gitlab.com/OrangeFox/sync.git
+    FOX_SYNC: https://gitlab.com/Powerfull11/sync.git
 
     # Config
     CONFIG: config.sh
 
     # Telegram
-    TG_CHAT_ID: ENCRYPTED[0003e1cf5276424a5b2afb8c6a39f2d830864e8555b37220bd3bf173f3ef5b8769ab98425d96a76adf64b18241c940dd]
-    TG_TOKEN: ENCRYPTED[03de4105db5d23ec42490965c0a0f79217c1e3366cb152bd9d9a045e22586eba675615e1f08bf1aea3e860d499efde60]
+    TG_CHAT_ID: ENCRYPTED[!0e16c619ac68287a2f2d36f5ba6e37b6390ee31a451dbf9d5c7c237b25c481c525907a41c60b7f1a2940324580cf7440!]
+    TG_TOKEN: ENCRYPTED[!2b7cad0e473f02c00d0d2bb411b935a841b41a921d092c51d9d7c6eaffc5fe00d03523f623afccd7625fdbf75f869ede!]
 
     # Cirrus Specific Vars (Do *NOT* Change)
     CIRRUS_SHELL: bash
